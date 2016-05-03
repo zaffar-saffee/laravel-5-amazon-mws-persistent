@@ -1,4 +1,4 @@
-amazon-mws-laravel
+Laravel-5-amazon-mws-persistent
 ============
 Forked from https://github.com/przemekperon/amazon-mws-laravel.git
 
