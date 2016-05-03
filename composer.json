@@ -1,0 +1,28 @@
+{
+    "name": "zaffar-saffee/Laravel-5-amazon-mws-persistent",
+    "description": " Orignall from Peron/laravel5-amazon-mws, implementation to Use Amazon's MWS web services with Laravel 5.x. Focus is on using persistent settings instead of file. (actually did for laravel spark project)",
+    "license": "Apache-2.0",
+    "keywords": ["API", "Amazon", "PHP", "MWS", "Laravel", "persistent", "Config"],
+    "authors": [
+        {
+            "name": "Zaffar Saffee",
+            "email": "zaffar4fnds@gmail.com"
+
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "ext-curl": "*",
+        "illuminate/support": "5.*",
+        "anlutro/l4-settings": "=>0.4.8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Zaffar\\AmazonMws": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
