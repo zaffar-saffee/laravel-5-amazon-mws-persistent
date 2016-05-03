@@ -5,6 +5,7 @@ Forked from https://github.com/przemekperon/amazon-mws-laravel.git
 Updted this repo when I was trying to complete a spark project that required persistent database settings
 
 Also, I have implemented Auth_Token required by amazon
+
 ==========
 A PHP package to connect to Amazon's Merchant Web Services (MWS) in an object-oriented manner, with a focus on intuitive usage.
 
