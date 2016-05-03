@@ -1,7 +1,9 @@
 amazon-mws-laravel
 ============
 Forked from https://github.com/przemekperon/amazon-mws-laravel.git
+
 Updted this repo when I was trying to complete a spark project that required persistent database settings
+
 Also, I have implemented Auth_Token required by amazon
 
 
@@ -43,9 +45,11 @@ Planning it to modify it further
 
 ## Usage
 Usage is as exactly as of original author (przemekperon/amazon-mws-laravel)
+
 All of the technical details required by the API are handled behind the scenes,
 so users can easily build code for sending requests to Amazon
-without having to jump hurdles such as parameter URL formatting and token management. 
+without having to jump hurdles such as parameter URL formatting and token management.
+ 
 The general work flow for using one of the objects is this:
 
 1. Create an object for the task you need to perform.
