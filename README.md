@@ -1,4 +1,4 @@
-Laravel-5-amazon-mws-persistent
+laravel-5-amazon-mws-persistent
 ============
 Forked from https://github.com/przemekperon/amazon-mws-laravel.git
 
@@ -13,7 +13,7 @@ This is __NOT__ for Amazon Web Services (AWS) - Cloud Computing Services.
 
 ## Installation
 
-1. `composer require zaffar-saffee/Laravel-5-amazon-mws-persistent`
+1. `composer require zaffar-saffee/laravel-5-amazon-mws-persistent`
 
 2. add the service provider to the providers array in config/app.php:
 ```
